@@ -8,7 +8,7 @@ import time
 import schedule
 from datetime import datetime, timedelta
 
-token = '7908013579:AAGzdyDzf_EAEYaCrd8Cy-dGciL4Yo7xq14'
+token = ''
 bot = telebot.TeleBot(token)
 
 RANDOM_TASKS = ['Написать Гвидо письмо', 'Выучить Python', 'Записаться на курс в Нетологию', 'Посмотреть 4 сезон Рик и Морти']
